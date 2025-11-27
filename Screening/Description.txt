@@ -1,0 +1,8 @@
+Description: 
+1. Put Bibfile in "1.bib files" and Run "clean_ISSN.py"
+2. Run "Unique.py"
+3. Run "collectioncheck.py"
+4. Run "Add_type.py"
+5. Run "Keywords.py"
+6. Run "Screening.py"
+The rest is manually done, with the help of ChatGPT. 
